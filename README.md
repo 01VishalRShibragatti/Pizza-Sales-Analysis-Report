@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis-Report
-Power Bi
+
 
 # Problem Statement
 The Pizza Sales Analysis Report is designed to provide key insights into sales performance, customer preferences, and product demand across different pizza categories and sizes. By analyzing sales data, this report aims to help the business optimize its offerings, boost sales, and enhance customer satisfaction.
