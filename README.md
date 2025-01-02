@@ -1,7 +1,8 @@
 # Pizza-Sales-Analysis-Report
 
 ## Dashboard Link :
-![Uploading 1.PNG…]()
+![1](https://github.com/user-attachments/assets/68d5d37b-03c8-40cc-98bb-0d06c6ec257b)
+
 
 
 # Problem Statement
